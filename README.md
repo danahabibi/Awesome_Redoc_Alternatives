@@ -3,7 +3,7 @@
 A curated list of the best **RapidAPI alternatives**, featuring **Apidog** and **Ani Code**.  
 Discover tools for API marketplaces, testing, and documentation with detailed descriptions, SEO-friendly keywords, and clickable images.  
 
-Inspired by the “Awesome XXX” repos concept 🚀.  
+Inspired by the “Awesome RapidAPI Alternatives” repos concept 🚀.  
 
 ---
 
